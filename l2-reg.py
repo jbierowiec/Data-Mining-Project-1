@@ -10,7 +10,7 @@ import os
 import shutil
 
 # Define the current working directory and plots directory
-current_directory = '/Users/janbierowiec/Data-Mining-Project-1'
+current_directory = '' #include your own path to save the plots
 plots_directory = os.path.join(current_directory, 'Plots')
 
 # Ensure the plots directory exists
