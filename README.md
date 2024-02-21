@@ -14,6 +14,3 @@ The project utilized MSE calculations and CV to evaluate regularization effects 
 
 ## Conclusions
 Choosing the right lambda for regularization is crucial to minimize MSE. CV is useful for identifying optimal lambda values, and learning curves offer insights into bias and variance balance for improved accuracy.
-
-## Due Date
-Submitted on 02/20/2024.
